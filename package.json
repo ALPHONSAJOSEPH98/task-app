@@ -1,0 +1,16 @@
+{
+  "name": "task-app-backend",
+  "version": "1.0.0",
+  "description": "task app backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alphonsa",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^11.0.0",
+    "json-server": "^0.17.4",
+    "server": "^1.0.39"
+  }
+}
